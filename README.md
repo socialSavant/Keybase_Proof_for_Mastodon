@@ -5,5 +5,5 @@ It uses the Keybase Filesystem to host a signed webpage which has been verified 
 That webpage also houses a GPG signed message which can be verified via Keybase for puposes of proving Mastodon account ownership.
 
 Relevant Sites:
-https://socialsavant.keybase.pub/mastodon-proof.html
+https://socialsavant.keybase.pub/mastodon-proof.html 
 https://octodon.social/@socialSavant
